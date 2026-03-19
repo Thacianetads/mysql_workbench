@@ -6,7 +6,7 @@ Este projeto contém a modelagem de um banco de dados relacional para gerenciame
 
 * Uma Pessoa pode ser:
 
-- um Funcionário
+-- um Funcionário
 
 - um Aluno
 
