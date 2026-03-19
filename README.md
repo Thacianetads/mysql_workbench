@@ -8,20 +8,20 @@ Este projeto contém a modelagem de um banco de dados relacional para gerenciame
 
   - um Funcionário
 
-- um Aluno
+  - um Aluno
 
 * Um Produto pode ser:
 
-- Smartphone
+  - Smartphone
 
-- Computador
+  - Computador
 
-- Eletrodoméstico
+  - Eletrodoméstico
 
-- Veículo
+  - Veículo
 
 * Um Pagamento está associado a:
 
-- uma Pessoa
+  - uma Pessoa
 
-- um Produto
+  - um Produto
